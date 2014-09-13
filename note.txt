@@ -2,6 +2,7 @@ git branch branchname:make a new beanch
 branches: parallel universes where we can work on different things in isolation
 git branch: gives a list of all branches in the repo
 with * :means the active branch
+git merge 'branch name':merge the alternate branch with the master:you have to make sure that you are at the master first
 this try try
 try this in touch command
 haha
