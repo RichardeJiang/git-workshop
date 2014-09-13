@@ -1,3 +1,7 @@
+git branch branchname:make a new beanch
+branches: parallel universes where we can work on different things in isolation
+git branch: gives a list of all branches in the repo
+with * :means the active branch
 this try try
 try this in touch command
 haha
