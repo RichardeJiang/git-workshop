@@ -6,8 +6,10 @@ wo wei zi ji dai yan
 ni jiu shi ge sha bi
 pwd: list the present working directory
 git stuff:
-
+envurn4vrv r 4ninvr4n34nn4nv
 git diff <old> <new>: shows us what has changed between these two files
+git diff: shows us what has chenged between our working diectory and staging area
+git add -p: let us selectively stage changes
 git init: used to create a new git repo
 git commit and git log
 git log --oneline
