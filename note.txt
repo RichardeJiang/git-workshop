@@ -9,6 +9,7 @@ git stuff:
 
 git init: used to create a new git repo
 git commit and git log
+git log --oneline
 git add: tells git to track certain file or directory
 .gitignore: tells git that it should completely ignore a certain file 
 touch filename.fieltype    create a file
