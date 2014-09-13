@@ -22,5 +22,4 @@ once commit: move to the repo, so they are ready to be brought back
 commit messages: try to say what has been changed
 git checkout 'id_of_the_commit_you_want_to_go'
 git checkout master: to the most recent commit
-git revert 'id of the commit': create a new commit which is the same as the previous one
 git status: compare your working directory with your staging area and tell you whether you have made changes or not
