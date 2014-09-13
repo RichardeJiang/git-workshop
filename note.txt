@@ -13,3 +13,7 @@ git log --oneline
 git add: tells git to track certain file or directory
 .gitignore: tells git that it should completely ignore a certain file 
 touch filename.fieltype    create a file
+working directory: what we see in real time
+staging area: filw is going to be committed by git add
+once commit: move to the repo, so they are ready to be brought back
+git status: compare your working directory with your staging area and tell you whether you have made changes or not
