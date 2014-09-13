@@ -7,6 +7,7 @@ ni jiu shi ge sha bi
 pwd: list the present working directory
 git stuff:
 
+git diff <old> <new>: shows us what has changed between these two files
 git init: used to create a new git repo
 git commit and git log
 git log --oneline
@@ -16,4 +17,5 @@ touch filename.fieltype    create a file
 working directory: what we see in real time
 staging area: filw is going to be committed by git add
 once commit: move to the repo, so they are ready to be brought back
+commit messages: try to say what has been changed
 git status: compare your working directory with your staging area and tell you whether you have made changes or not
