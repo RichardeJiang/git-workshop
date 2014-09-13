@@ -1,0 +1,11 @@
+try this in touch command
+haha
+wo shi lv jian yu
+wo wei zi ji dai yan
+ni jiu shi ge sha bi
+pwd: list the present working directory
+git stuff:
+
+git init: used to create a new git repo
+.gitignore: tells git that it should completely ignore a certain file 
+touch filename.fieltype    create a file
