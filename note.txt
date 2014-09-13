@@ -31,4 +31,4 @@ git revert 'id of the commit': create a new commit which is the same as the prev
 git status: compare your working directory with your staging area and tell you whether you have made changes or not
 git pull origin master: pulls commits on remote to the local machine
 git remote add origin [url]:add a git remote with the name origin
-
+git push origin master: push to the remote
